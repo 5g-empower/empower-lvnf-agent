@@ -16,4 +16,5 @@ Checkout out our [website](http://5g-empower.io/) and our [wiki](https://github.
 
 This repository includes the 5G-EmPOWER LVNF agent. The LVNF agent is responsible for deploying and managing Click-based Virtual Network Functions.
 
+### License
 Code is released under the Apache License, Version 2.0.
